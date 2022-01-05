@@ -4,6 +4,9 @@ odometry as the chassis moves and performs feedback control to drive the robot i
 the desired trajectory.The simulate planned trajectory in demonstrated in
 CoppeliaSim.
 
+[m]!(https://github.com/ashleetiw/KUKA-youbot-manipulation/blob/master/demo.gif)
+
+
 ## Milestone 1
 `Next_State.py` - computes the configuration of the robot in the next time step.The
 function inputs the current robot configuration and joint speeds. Given A 12-vector
