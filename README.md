@@ -4,7 +4,7 @@ odometry as the chassis moves and performs feedback control to drive the robot i
 the desired trajectory.The simulate planned trajectory in demonstrated in
 CoppeliaSim.
 
-[m]!(https://github.com/ashleetiw/KUKA-youbot-manipulation/blob/master/demo.gif)
+![m](https://github.com/ashleetiw/KUKA-youbot-manipulation/blob/master/demo.gif)
 
 
 ## Milestone 1
